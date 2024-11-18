@@ -1,6 +1,6 @@
 # New Docker Repository
 
-[![pre-commit](https://github.com/Tom-Notch/New-Docker-Repository-Template/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/Tom-Notch/New-Docker-Repository-Template/actions/workflows/pre-commit.yml)
+[![pre-commit](https://github.com/Robot-Learning-Course-Project/Docker-Repository-Template/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/Robot-Learning-Course-Project/Docker-Repository-Template/actions/workflows/pre-commit.yml)
 
 ## Dependencies
 
